@@ -1,0 +1,1 @@
+The project folder contains the source code which run the entire project. It has a folder named known faces which has the facial data of the two consented individuals which were used to create the embedding which later on is used to match for facial recognition. 
